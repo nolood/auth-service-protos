@@ -1,4 +1,4 @@
-module sso-protos
+module github.com/nolood/auth-service-protos
 
 go 1.22.2
 
